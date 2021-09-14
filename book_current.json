@@ -1,0 +1,22 @@
+{
+  "title": "主流数据格式：JSON",
+  "description": "介绍主流的常见的数据格式JSON",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "common_data_format_json"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/books/common_data_format_json/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.com/books/common_data_format_json/pdf/common_data_format_json.pdf"
+    }
+  }
+}
